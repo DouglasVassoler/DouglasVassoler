@@ -1,9 +1,12 @@
 ## Olá!! Sou Douglas
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DouglasVassoler&show_icons=true&theme=dracula)](https://github.com/DouglasVassoler/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DouglasVassoler&show_icons=true&theme=tokyonight)](https://github.com/DouglasVassoler/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasVassoler&layout=compact&show_icons=true&theme=tokyonight)
 
 <div style="display: inline_block">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Douglas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Douglas-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Douglas-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+          
 </div>
 
 <div><br>
